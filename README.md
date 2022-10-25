@@ -1,5 +1,5 @@
 # Validate_ComBat
-This is the Code for our paper "Validation of cross-sectional and longitudinal ComBat harmonization methods for magnetic resonance imaging data on a travelling subject cohort"
+This is the Code for our paper "Validation of cross-sectional and longitudinal ComBat harmonization methods for magnetic resonance imaging data on a travelling subject cohort" in NeuroImage: Reports. https://doi.org/10.1016/j.ynirp.2022.100136
 
 The code should be run as follows:
 1. Cross-sectional_analysis.R
